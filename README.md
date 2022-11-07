@@ -12,9 +12,9 @@ No.
 
 
 ```
-git clone
+git clone https://github.com/elaa0505/Tamilvoice.git
 
-cd folder
+cd Tamilvoice
 
 ```
 
